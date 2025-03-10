@@ -1,4 +1,4 @@
-![420566517-3910cd64-b7c3-4b3a-b3c5-7c76e8330744](https://github.com/user-attachments/assets/08be5d7a-f6d5-44f3-a123-ff9cabe7efca)![420566467-b55e3e9a-6cce-4dd4-9801-7c95a22ffe1c](https://github.com/user-attachments/assets/332fe3b0-0ccb-472a-ac44-cee448699a94)<H3>ENTER YOUR NAME</H3>
+<H3>ENTER YOUR NAME</H3>
 <H3>ENTER YOUR REGISTER NO.</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
