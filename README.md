@@ -1,4 +1,4 @@
-<H3>ENTER YOUR NAME</H3>
+![420566517-3910cd64-b7c3-4b3a-b3c5-7c76e8330744](https://github.com/user-attachments/assets/08be5d7a-f6d5-44f3-a123-ff9cabe7efca)![420566467-b55e3e9a-6cce-4dd4-9801-7c95a22ffe1c](https://github.com/user-attachments/assets/332fe3b0-0ccb-472a-ac44-cee448699a94)<H3>ENTER YOUR NAME</H3>
 <H3>ENTER YOUR REGISTER NO.</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
@@ -70,14 +70,22 @@ print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)                   # Y Train an
 
 ## OUTPUT:
 ## Dataset:
+![420566443-550dc5b7-3f0e-4b9e-95c2-5c22c41758ab](https://github.com/user-attachments/assets/a376a054-3e07-439b-a021-c4a871acd759)
+
 
 ## null values:
+![420566467-b55e3e9a-6cce-4dd4-9801-7c95a22ffe1c](https://github.com/user-attachments/assets/761f72b0-a484-4431-af1e-28bc5ecfa332)
+
 
 ## Normalized data:
+![420566492-1932d9fd-c769-460d-8a30-f14ffd429351](https://github.com/user-attachments/assets/8f2c0159-0a69-4da9-9853-d8e889992b63)
 
 ## Data Splitting:
+![420566506-70a51893-3fe6-40dd-9e65-e13a2a8797a1](https://github.com/user-attachments/assets/0ec0df47-af05-4fd3-834f-4aabf3d82bd0)
 
 ## Train and test data:
+![420566517-3910cd64-b7c3-4b3a-b3c5-7c76e8330744](https://github.com/user-attachments/assets/4b8310a0-652f-475b-a76b-f0f4336fcc3e)
+
 
 
 
